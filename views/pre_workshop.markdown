@@ -1,7 +1,8 @@
 # Pre-workshop downloads
 
-Please download the pre-requisite software onto your laptop computer before you attend the workshop. This helps speed things up on Friday and helps prevent the WiFi network from getting clogged.
+You must bring your own laptop to RailsBridge If you have both a Windows system and a Mac or Linux one we suggest you bring the latter.
 
+Please download the pre-requisite software onto your laptop computer before you attend the workshop. This helps speed things up on Friday and helps prevent the WiFi network from getting clogged.
 
 ## OS X 10.6 and above:
 
@@ -24,6 +25,9 @@ for Mac. Run the installer after it downloads.
 
 Download [Vagrant](http://files.vagrantup.com/packages/db8e7a9c79b23264da129f55cf8569167fc22415/Vagrant-1.3.3.dmg) for Mac. Run the installer after it downloads.
 
+Download
+[this file](http://s3.amazonaws.com/railsbridgeboston/railsbridgevm-3.2-a.box) and save it somewhere on your desktop or home folder.
+
 
 ## OS X 10.5
 
@@ -36,7 +40,6 @@ Once you have confirmed your developer account, you can download [Xcode
 3.1.4](http://adcdownload.apple.com/Developer_Tools/xcode_3.1.4_developer_tools/xcode314_2809_developerdvd.dmg).
 If that link doesn't work, go to the [downloads
 page](https://developer.apple.com/downloads) and search for "Xcode 3.1.4"
-
 
 
 ## Windows
@@ -56,6 +59,9 @@ for Windows. Run the installer after it downloads. Agree to restart the computer
 Download [GitHub for Windows](http://windows.github.com/) and run the installer.
 If prompted during installation, install the Microsoft .NET framework.
 If GitHub for Windows automatically launches after installation, quit the application.
+
+Download
+[this file](http://s3.amazonaws.com/railsbridgeboston/railsbridgevm-3.2-a.box) and save it somewhere on your desktop or home folder.
 
 
 ## Linux
