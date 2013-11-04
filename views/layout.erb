@@ -1,10 +1,10 @@
 <!DOCTYPE html> <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>RailsBridge Boston</title>
+  <title>RailsBridge Montreal</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="RailsBridge Boston Workshop for Women and their Friends">
-  <meta name="author" content="RailsBridge Boston">
+  <meta name="description" content="RailsBridge Montreal">
+  <meta name="author" content="RailsBridge Montreal">
 
   <link rel="shortcut icon" href="/favicon.ico?v=2">
 
@@ -18,21 +18,7 @@
   <link href="/site.css" rel="stylesheet">
   <% if @markdown %><link href="/markdown.css" rel="stylesheet"><% end %>
 
-  <script id="studentProgress" type="text/html">
-    <form id="progress-tick">
-      <ul>
-        <li>Check this box if you're done this unit: <input type="checkbox" value="<%= request.path_info %>" id="doneBox"/>
-        </li>
-        <li>
-        Your name (click to focus, type, and then press TAB):
-        <span id="name" contenteditable="true">{{ name }}</span>
-        </li>
-        <li>
-          {{#student_id}} Student ID: <span id="studentId">{{student_id}}</span> {{/student_id}}
-        </li>
-      </ul>
-    </div>
-  </script>
+
   <script id="tweetTemplate" type="text/html">
     <div id="tweet_{{id_str}}" class="tweet">
       <a class="tweet-user" target="_blank" href="http://twitter.com/{{from_user}}"><img src="{{ profile_image_url }}"/></a>
