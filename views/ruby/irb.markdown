@@ -40,13 +40,13 @@ Type this in irb:
 
 Expected result:
 
-```
+```bash
 1.9.3p125 :015 > 1 + 2
  => 3
 1.9.3p125 :016 >
 ```
 
-Here, `=> 3` is the return value of the statement `1 + 2`. Every statement in ruby has a return value: irb shows you that value after you type a complete statement and press enter.
+Here, `=> 3` is the *return value* of the *statement* `1 + 2`. Every statement in ruby has a return value: irb shows you that value after you type a complete statement and press enter.
 
 ### Step 4
 Type this in irb:

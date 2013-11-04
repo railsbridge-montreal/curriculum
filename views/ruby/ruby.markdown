@@ -23,7 +23,7 @@ Everything should be set up the night before during our installfest. Please ensu
 
 You can verify that you have everything working by trying this out in your terminal:
 
-```
+```bash
 $ irb
 >> 1 + 2
 => 3

@@ -14,9 +14,9 @@ Ruby was invented in the mid-1990s by a guy named Matz.
 
 Ruby takes a lot of ideas from the language Perl and Smalltalk
 
-Ruby is an interpreted language. Unlike compiled languages, where the computer has to read your entire code up front, in Ruby the computer reads your code line-by-line.
+Ruby is an *interpreted* language. Unlike *compiled* languages, where the computer has to read your entire code up front, in Ruby the computer reads your code line-by-line.
 
-Ruby's popularity soared with the invention of the Ruby on Rails web framework, but Ruby is useful for many more things than just websites.
+Ruby's popularity soared with the invention of the *Ruby on Rails* web framework, but Ruby is useful for many more things than just websites.
 
 ## Further Reading
 [https://en.wikipedia.org/wiki/Ruby_(programming_language)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
