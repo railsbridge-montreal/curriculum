@@ -6,7 +6,9 @@ Please download the pre-requisite software onto your laptop computer before you 
 
 ## OS X 10.6 and above:
 
-Pick one of the following options. The main difference is that Option 1  will
+First, download [Sublime Text 2 for Mac](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.dmg).
+
+Then pick one of the following options. The main difference is that Option 1  will
 install Ruby and various tools directly into your computer operating system,
 whereas Option 2 will install a temporary and easy-to-remove "virtual machine"
 containing all the software you need for the workshop.
@@ -28,7 +30,6 @@ Download [Vagrant](http://files.vagrantup.com/packages/db8e7a9c79b23264da129f55c
 Download
 [this file](http://s3.amazonaws.com/railsbridgeboston/railsbridgevm-3.2-a.box) and save it somewhere on your desktop or home folder.
 
-
 ## OS X 10.5
 
 Go to the [Apple Developer Center](https://developer.apple.com/downloads),
@@ -43,6 +44,8 @@ page](https://developer.apple.com/downloads) and search for "Xcode 3.1.4"
 
 
 ## Windows
+
+First, download [Sublime Text 2 for Windows](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20Setup.exe) -- or [64bit version](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20x64%20Setup.exe).
 
 Note that unlike the OS X instructions, these are not multiple options - you
 should do all of the steps below.
@@ -66,6 +69,6 @@ Download
 
 ## Linux
 
-Nothing to do yet. Come to the workshop on Friday.
+Just install Sublime Text 2 -- [32 bit](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.tar.bz2) or [64 bit](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20x64.tar.bz2).
 
 
