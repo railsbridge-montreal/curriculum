@@ -1,10 +1,6 @@
-# railsbridge-boston
+# railsbridge mtl
 
-This is the website for the Railsbridge Boston Workshop for Women and their
-friends.
-
-The new site URL is <http://www.railsbridgeboston.org/>
-
+Railsbridge Montreal curriculum. Forked with <3 from Railsbridge Boston.
 
 ## Setup
 
@@ -20,7 +16,7 @@ static content.
 
 To start the app:
 
-    bundle 
+    bundle
     rackup
 
 
