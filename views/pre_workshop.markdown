@@ -71,6 +71,7 @@ If GitHub for Windows automatically launches after installation, quit the applic
 Download
 [this file](http://s3.amazonaws.com/railsbridgeboston/railsbridgevm-3.2-a.box) and save it somewhere on your desktop or home folder.
 
+If you have any trouble with the installers just keep the files on your computer and someone will help you at the Installfest on Friday.
 
 ## Linux
 
