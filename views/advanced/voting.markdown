@@ -1,6 +1,6 @@
 # Vote on posts
 
-Make it like Reddit! Allow users to vote on posts they like or don't like. There are many ways you could do this, including a few gems.
+Make it like Reddit! Next-level Suggestotron! Allow users to vote on posts they like or don't like. There are many ways you could do this, including a few gems.
 
 ## Features you could implement
 
