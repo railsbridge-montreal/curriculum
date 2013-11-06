@@ -1,16 +1,18 @@
 # Install Ruby on Windows
 
-Installing Ruby and Rails on Windows is easy thanks to the RailsBridge Virtual Machine. 
+Installing Ruby and Rails on Windows is easy thanks to the RailsBridge Virtual Machine.
 This setup will give you Ruby, Rails, Git and the Bash shell. Let's get started.
 
 Make sure you have performed the [pre-workshop steps](/pre_workshop).
 
 ## Step 1.
 
-Launch the Git Shell. You can find a shortcut on your Desktop (grey circle with a cat), 
-or locate **Git Shell** in All Programs under GitHub. A new (mostly black) window will open. 
+Launch the Git Shell. You can find a shortcut on your Desktop (grey circle with a cat),
+or locate **Git Shell** in All Programs under GitHub. A new (mostly black) window will open.
 
 ## Step 2.
+
+If the file *railsbridgevm-3.2-a.box* file you downloaded before the workshop isn't on your desktop, move it there.
 
 Then type the following commands. Press ENTER after each command and wait for the operation to finish
 before typing the next one.
@@ -18,7 +20,7 @@ before typing the next one.
 ```text
 mkdir ~/Desktop/railsbridge
 cd ~/Desktop/railsbridge
-vagrant box add railsbridgebos http://s3.amazonaws.com/railsbridgeboston/railsbridgevm-3.2-a.box
+vagrant box add railsbridgebos railsbridgevm-3.2-a.box
 vagrant init railsbridgebos
 vagrant up
 vagrant ssh
@@ -50,7 +52,7 @@ C:\Users\Diligent Student\Desktop\railsbridge> vagrant ssh
 
 Welcome to Ubuntu 12.04 LTS (GNU/Linux 3.2.0-23-generic-pae i686)
    ...many lines left out...
-vagrant@precise32:~$ 
+vagrant@precise32:~$
 ```
 
 ## Step 3.
