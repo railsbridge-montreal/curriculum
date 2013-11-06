@@ -1,4 +1,8 @@
-# Saturday Curriculum
+<div class="alert alert-info">
+<strong>Note to attendees</strong>: This is material that we expect you to read during the workshop, not before it. The contents are subject to change beforehand.
+</div>
+
+# Intermediate Course
 
 ## Goal
 
@@ -37,7 +41,7 @@ day.
 ## Requirements
 We're going to be working with:
 
-* Ruby 1.9.3 installed 
+* Ruby 1.9.3 installed
 * Rails 3.2.x
 * Bundler
 * SQLite
@@ -100,7 +104,7 @@ Each lesson will look like this:
 
 ## Checkpoints
 
-At the end of every section, you will get a "checkpoint". These are like practice questions after a chapter—they 
+At the end of every section, you will get a "checkpoint". These are like practice questions after a chapter—they
 give you the chance to deepen your understanding of the section. You will be asked to apply the concepts
 introduced in that section, but you won't be given every command. Talk to your TA once you have completed the
 checkpoint, or if you get stuck.

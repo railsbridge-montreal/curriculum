@@ -6,6 +6,11 @@ Assumptions made by this curriculum:
 - You’ve gone through the RailsBridge Suggestotron curriculum at least once before, or maybe a couple of times, or maybe you feel decently comfortable with Rails for some other reason.
 - You want to learn more Rails!!!
 
+<div class="alert alert-info">
+<strong>Note to attendees</strong>: This is material that we expect you to read during the workshop, not before it. The contents are subject to change beforehand.
+</div>
+# Advanced Course
+
 ## Goals
 
 - Make a thing!
