@@ -6,9 +6,10 @@
 
 <img src="/images/advanced/header.png" alt="Header"></img>
 
-## Timebox It!
-
-The purpose of this section is to make your app a bit prettier and demonstrate how to add CSS frameworks like Bootstrap using the Gemfile. Don't get snagged on the details of getting your CSS exactly right, unless that's valuable to you.
+<div class="alert alert-info">
+<h4>Timebox It!</h4>
+<p>The purpose of this section is to make your app a bit prettier and demonstrate how to add CSS frameworks like Bootstrap using the Gemfile. Don't get snagged on the details of getting your CSS exactly right, unless that's valuable to you.</p>
+</div>
 
 ## Discussion Items
 

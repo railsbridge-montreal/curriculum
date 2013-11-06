@@ -8,9 +8,10 @@
 - The page should display the logged-in user's email address and a link to log out.
 - You, the developer, should explain to a teacher, TA, or fellow student how Rails knows to render the home view.
 
-## Timebox It!
-
-The purpose of this section is to allow users to log in to your app and demonstrate how to add external libraries like Devise using the Gemfile. If you find yourself needing to write more than a couple of lines of code to make that happen, you may have gone too far. Talk to a TA!
+<div class="alert alert-info">
+  <h4>Timebox It!</h4>
+  <p> The purpose of this section is to allow users to log in to your app and demonstrate how to add external libraries like Devise using the Gemfile. If you find yourself needing to write more than a couple of lines of code to make that happen, you may have gone too far. Talk to a TA! <p>
+</div>
 
 ## Discussion Items
 
