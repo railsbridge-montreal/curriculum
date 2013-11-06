@@ -19,7 +19,7 @@ containing all the software you need for the workshop.
 
 ### Option 1. RailsInstaller
 
-Download Railsinstaller from the <a href="http://railsinstaller.org" target="_blank">RailsInstaller</a> webpage.
+Download [Railsinstaller for Mac](http://railsinstaller.s3.amazonaws.com/RailsInstaller-1.0.4-osx-10.7.app.tgz) from the <a href="http://railsinstaller.org" target="_blank">RailsInstaller</a> webpage.
 
 Don't worry about watching the video. Just leave the download in your Downloads folder.
 
