@@ -4,6 +4,10 @@ You must bring your own laptop to RailsBridge If you have both a Windows system 
 
 Please download the pre-requisite software onto your laptop computer before you attend the workshop. This helps speed things up on Friday and helps prevent the WiFi network from getting clogged.
 
+### Students of the advanced class
+
+We assume you've already made at least one Rails app in the past. If you already have a working Rails setup on your laptop, you do not need to do this. To check if you have a working Rails setup, try creating a new Rails project and running it with `rails server`. If this works, you're in the clear.
+
 ## OS X 10.6 and above:
 
 First, download [Sublime Text 2 for Mac](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.dmg).
