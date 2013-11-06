@@ -1,6 +1,6 @@
 # Pre-workshop downloads
 
-You must bring your own laptop to RailsBridge If you have both a Windows system and a Mac or Linux one we suggest you bring the latter.
+You must bring your own laptop to RailsBridge. If you have both a Windows system and a Mac or Linux one we suggest you bring the latter.
 
 Please download the pre-requisite software onto your laptop computer before you attend the workshop. This helps speed things up on Friday and helps prevent the WiFi network from getting clogged.
 
@@ -12,7 +12,7 @@ We assume you've already made at least one Rails app in the past. If you already
 
 First, download [Sublime Text 2 for Mac](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.dmg).
 
-Then pick one of the following options. The main difference is that Option 1  will
+Then pick one of the following options. The main difference is that Option 1 will
 install Ruby and various tools directly into your computer operating system,
 whereas Option 2 will install a temporary and easy-to-remove "virtual machine"
 containing all the software you need for the workshop.
@@ -36,6 +36,8 @@ Download
 
 ## OS X 10.5
 
+First, download [Sublime Text 2 for Mac](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2.dmg).
+
 Go to the [Apple Developer Center](https://developer.apple.com/downloads),
 and click Register. Fill out the first page with your account information.
 The second page is a developer survey, which you can skip. Just go to the bottom and click
@@ -49,10 +51,9 @@ page](https://developer.apple.com/downloads) and search for "Xcode 3.1.4"
 
 ## Windows
 
-First, download [Sublime Text 2 for Windows](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20Setup.exe) -- or [64bit version](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20x64%20Setup.exe).
+Please follow *all* of the instructions below.
 
-Note that unlike the OS X instructions, these are not multiple options - you
-should do all of the steps below.
+First, download [Sublime Text 2 for Windows](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20Setup.exe) -- or [64bit version](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20x64%20Setup.exe).
 
 Download
 [VirtualBox](http://download.virtualbox.org/virtualbox/4.2.18/VirtualBox-4.2.18-88781-Win.exe)
