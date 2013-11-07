@@ -36,10 +36,12 @@
 If you can't get the right HTML mojo for the Bootstrap nav bar, or want to move on quickly to the next page, here's some code you can drop into your layout (after installing Bootstrap!) that should work. The code should go immediately after your `<body>` tag.
 
 ```html
-<div class="navbar">
-  <div class="navbar-inner">
-    <a class="brand" href="#">Message Board</a>
-    <ul class="nav">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">Message Board</a>
+    </div>
+    <ul class="nav navbar-nav">
       <li class="active"><a href="/">Home</a></li>
     </ul>
     <p class="navbar-text pull-right">logged_in_user@email.com | <a href="log_out_link_here">Log Out</a></p>
