@@ -15,5 +15,4 @@ Migrations aren't just for scaffolds! Create a migration to add a text column to
 
 ## Try some of the challenges from the Advanced class:
 
-- [Make it pretty with Bootstrap!](/advanced/make_it_pretty)
-- Do you speak JavaScript? [Use ajax](/advanced/inline_replying_with_ajax) to make Suggestotron snappier!
+
