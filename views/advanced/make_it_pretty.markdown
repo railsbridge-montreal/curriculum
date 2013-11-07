@@ -21,8 +21,8 @@
 ## Tools and References
 
 - A gem for Bootstrap!! Let’s use the gem [bootstrap-sass-rails](https://github.com/yabawock/bootstrap-sass-rails)
-- [Bootstrap docs](http://twitter.github.com/bootstrap/base-css.html)
-- Here's a link to the [navbar section](http://twitter.github.com/bootstrap/components.html#navbar)
+- [Bootstrap docs](http://getbootstrap.com/getting-started/)
+- Here's a link to the [navbar section](http://getbootstrap.com/components/#navbar)
 - Reference for [HTML and CSS](http://www.htmldog.com/)
 
 ## Hints
