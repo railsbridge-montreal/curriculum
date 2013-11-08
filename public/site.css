@@ -15,6 +15,10 @@ body {
   background-position: 0 40px;
 }
 
+a {
+  color: #1D0D85;
+}
+
 body > .container {
   margin-bottom: 3em;
 }

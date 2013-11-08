@@ -8,6 +8,10 @@ body {
 	font-size: 45px;
 }
 
+a {
+	color: blue;
+}
+
 body {
 	min-height: 740px;
 	background: -moz-radial-gradient(50% 50%, farthest-side, #fff, #efefef);
